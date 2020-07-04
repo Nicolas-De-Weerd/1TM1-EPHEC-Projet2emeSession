@@ -1,0 +1,7 @@
+# 1TM1-EPHEC-Projet2emeSession
+# Présentation de l’équipe 
+- De Weerd Nicolas
+# Description du projet
+Site référençant les produits en stock.  
+Cette application permettra de connaître rapidement l'état des stocks. Les utilisateurs pourront aussi modifier l'état des stock en ajoute ou retirants un certains de produits.
+De plus nous laisseront une possibilité de rajouter d’autres produits, pour le moment il n’y aura que 2 ou 3 produits en stock.
